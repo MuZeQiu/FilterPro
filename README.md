@@ -1,4 +1,4 @@
 # FilterPro
-## 直接使用Opengl Es渲染的滤镜
+## 以下的鱼眼和油画滤镜均使用OpenGL ES渲染
 [IMG_2739]:https://github.com/MuZeQiu/FilterPro/blob/master/IMG_2739.PNG
-
+![IMG_2739]
